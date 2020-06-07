@@ -80,5 +80,14 @@
     <ClCompile Include="tempparm.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="frnd2tmp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tmp2tmp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="manyfmd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
