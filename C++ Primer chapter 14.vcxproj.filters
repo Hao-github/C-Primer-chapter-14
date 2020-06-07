@@ -74,5 +74,11 @@
     <ClCompile Include="pairs.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="tempmemb.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tempparm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
